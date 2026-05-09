@@ -1,0 +1,182 @@
+[
+  {
+    "url": "http://www.amazon.com",
+    "result": {
+      "title": "",
+      "language": "",
+      "summary": "The image is completely blank with no visible content.",
+      "topics": [],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 3.79
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "result": {
+      "title": "Politische Theorie",
+      "language": "de",
+      "summary": "This is a German Wikipedia page about Political Theory, which is a subfield of political science and international relations. It discusses the classical and modern branches of political theory, including normative political theory.",
+      "topics": [
+        "Political Theory",
+        "Politics",
+        "Philosophy",
+        "International Relations",
+        "Political Science"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.8
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "result": {
+      "title": "Gesellschaftsgeschichte",
+      "language": "de",
+      "summary": "This is a Wikipedia page discussing the concept of Gesellschaftsgeschichte, which refers to the study of the history of societies. It explains how the discipline has evolved over time and focuses on economic, social, political, and cultural aspects.",
+      "topics": [
+        "Gesellschaftsgeschichte",
+        "historische Sozialwissenschaft",
+        "Wirtschaft",
+        "Politik",
+        "Kultur"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 5.11
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "result": {
+      "title": "Kulturgeschichte",
+      "language": "de",
+      "summary": "Die Seite bietet eine Übersicht über die Kulturgeschichte, die als Teil der Geisteswissenschaften betrachtet wird und sich mit dem geistig-kulturellen Leben, der Zivilisation und deren Erforschung und Darstellung befasst.",
+      "topics": [
+        "Kulturgeschichte",
+        "Geisteswissenschaften",
+        "Zivilisation",
+        "Erforschung",
+        "Darstellung"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 5.28
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "result": {
+      "title": "Wirtschaftsgeschichte",
+      "language": "de",
+      "summary": "Die Seite bietet eine Übersicht über die Wirtschaftsgeschichte als Brückenschlüssel zwischen den Wirtschaftswissenschaften und der Geschichtswissenschaft. Sie beschreibt die Entwicklung, Organisation und Handlungslogiken von Volkswirtschaften, Branchen, Unternehmen und Akteursgruppen in historischer Perspektive.",
+      "topics": [
+        "Wirtschaftsgeschichte",
+        "Geschichtswissenschaft",
+        "Volkswirtschaften",
+        "Unternehmen",
+        "Akteursgruppen"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 5.74
+  },
+  {
+    "url": "http://www.facebook.com",
+    "result": {
+      "title": "",
+      "language": "",
+      "summary": "The image is completely blank with no visible content.",
+      "topics": [],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 6.02
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "result": {
+      "title": "Sozialgeschichte",
+      "language": "de",
+      "summary": "This Wikipedia page provides an overview of Sozialgeschichte, which studies and describes the development of societies in the past. It discusses how the concept evolved from being primarily focused on political history to encompassing various social groups and processes.",
+      "topics": [
+        "Sozialgeschichte",
+        "Gesellschaftsentwicklung",
+        "Politische Geschichte"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 6.14
+  },
+  {
+    "url": "http://www.youtube.com",
+    "result": {
+      "title": "Unlabeled Webpage",
+      "language": "en",
+      "summary": "The image shows a placeholder layout with six gray boxes arranged in two rows. Each box appears to have a small circular icon and a horizontal line underneath, suggesting placeholders for images or text.",
+      "topics": [
+        "placeholder",
+        "layout",
+        "web design"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 7.06
+  },
+  {
+    "url": "http://www.yahoo.com",
+    "result": {
+      "title": "Yahoo!",
+      "language": "de",
+      "summary": "This is a screenshot of the Yahoo! website in German, displaying a privacy policy consent form. It informs users about the use of cookies and their data protection settings.",
+      "topics": [
+        "Yahoo!",
+        "Privacy Policy",
+        "Cookies"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 7.06
+  },
+  {
+    "url": "http://www.baidu.com",
+    "result": {
+      "title": "Baidu",
+      "language": "zh",
+      "summary": "This is the homepage of Baidu, a Chinese search engine. It features a search bar at the top and a list of trending topics below it.",
+      "topics": [
+        "search engine",
+        "trending topics",
+        "Baidu"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 9.8
+  }
+]

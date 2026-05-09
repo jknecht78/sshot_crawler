@@ -1,0 +1,200 @@
+[
+  {
+    "url": "http://www.yahoo.com",
+    "result": {
+      "title": "Yahoo!",
+      "language": "de",
+      "summary": "The Yahoo! website is about privacy and data protection.",
+      "topics": [
+        "privacy",
+        "data protection",
+        "cookies"
+      ],
+      "category": "docs",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.6
+  },
+  {
+    "url": "http://www.youtube.com",
+    "result": {
+      "title": "Advertisement",
+      "language": "en",
+      "summary": "An advertisement with a white background and a search bar at the top.",
+      "topics": [
+        "advertising",
+        "search"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "native"
+      ]
+    },
+    "_duration_s": 4.6
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "result": {
+      "title": "Wikipedia",
+      "language": "de",
+      "summary": "Wikipedia is a free online encyclopedia that anyone can contribute to.",
+      "topics": [
+        "encyclopedia",
+        "wikipedia"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": [
+        "native"
+      ]
+    },
+    "_duration_s": 4.62
+  },
+  {
+    "url": "http://www.facebook.com",
+    "result": {
+      "title": "Cookie-Dialog",
+      "language": "de",
+      "summary": "Facebook zeigt ein Dialogfenster an, in dem die Benutzer die Verwendung von Cookies bestätigen müssen.",
+      "topics": [
+        "Facebook",
+        "Cookies"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.64
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "result": {
+      "title": "Wikipedia: Sozialgeschichte",
+      "language": "de",
+      "summary": "Wikipedia page about the topic of social history.",
+      "topics": [
+        "social history",
+        "history",
+        "social science"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": [
+        "native"
+      ]
+    },
+    "_duration_s": 4.65
+  },
+  {
+    "url": "http://www.amazon.com",
+    "result": {
+      "title": "The Official Website of the United States Department of Agriculture (USDA)",
+      "language": "en",
+      "summary": "The USDA is the largest agricultural research organization in the world, with a mission to improve the nation's food and agricultural systems through research, education, and international development.",
+      "topics": [
+        "agriculture",
+        "research",
+        "education",
+        "international development"
+      ],
+      "category": "docs",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.8
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "result": {
+      "title": "Wikipedia",
+      "language": "de",
+      "summary": "Wikipedia is a free online encyclopedia that anyone can contribute to. It is available in over 39 languages.",
+      "topics": [
+        "Wikipedia",
+        "encyclopedia",
+        "free online encyclopedia",
+        "free encyclopedia",
+        "online encyclopedia",
+        "free content",
+        "free resources",
+        "encyclopedia resources"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": [
+        "native"
+      ]
+    },
+    "_duration_s": 4.83
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "result": {
+      "title": "Wikipedia: Politische Theorie",
+      "language": "de",
+      "summary": "Wikipedia: Politische Theorie is a page on Wikipedia that provides information about the field of political theory. It covers the history, development, and main concepts of political theory, including its various subfields and theories.",
+      "topics": [
+        "political theory",
+        "politics",
+        "philosophy",
+        "history"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": [
+        "native"
+      ]
+    },
+    "_duration_s": 4.87
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "result": {
+      "title": "Wirtschaftsgeschichte",
+      "language": "de",
+      "summary": "Wirtschaftsgeschichte is a bridge discipline between economic sciences and economic history. It can be used to analyze the role of the economy and the economic history of the economy as a whole. However, the economic history of the economy is often seen as a historical narrative of the economy, rather than a scientific study of the economy.",
+      "topics": [
+        "economic history",
+        "economic sciences",
+        "economic history"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": [
+        "native"
+      ]
+    },
+    "_duration_s": 4.96
+  },
+  {
+    "url": "http://www.baidu.com",
+    "result": {
+      "title": "百度",
+      "language": "zh",
+      "summary": "这是百度搜索引擎的首页，用户可以在这里进行搜索和浏览相关信息。",
+      "topics": [
+        "search-engine",
+        "web",
+        "search"
+      ],
+      "category": "docs",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": [
+        "search-ads"
+      ]
+    },
+    "_duration_s": 8.55
+  }
+]

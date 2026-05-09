@@ -1,0 +1,200 @@
+[
+  {
+    "url": "http://www.amazon.com",
+    "result": {
+      "title": "",
+      "language": "en",
+      "summary": "The screenshot is completely blank, showing only a white background with no visible content, text, or interface elements.",
+      "topics": [],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 5.63
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "result": {
+      "title": "Kulturgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "This is a Wikipedia article in German about Kulturgeschichte (cultural history), defining it as the history of spiritual and cultural life, civilization, and their representation. The article discusses its conceptual boundaries, distinguishing it from political and state history, and traces its development from the 18th century Enlightenment through German Romanticism to later scholars like Arnold J. Toynbee and Oswald Spengler.",
+      "topics": [
+        "Kulturgeschichte",
+        "Kultur",
+        "Geschichte",
+        "Philosophie",
+        "Romantik"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 10.94
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "result": {
+      "title": "Sozialgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "This is the German Wikipedia article on 'Sozialgeschichte' (Social History). It defines social history as a subfield of social sciences that focuses on the development of societies over time, particularly examining groups, classes, and social processes. The article also includes a section on 'Deutschland' (Germany), discussing the long history of social history research in the country.",
+      "topics": [
+        "Sozialgeschichte",
+        "Sozialwissenschaft",
+        "Deutschland",
+        "Gesellschaftsgeschichte",
+        "Politische Geschichte"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "banner"
+      ]
+    },
+    "_duration_s": 10.98
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "result": {
+      "title": "Gesellschaftsgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "Die Seite beschreibt die Gesellschaftsgeschichte, ein Forschungsprogramm der historischen Sozialwissenschaft, das sich mit der Entwicklung von Gesamtgesellschaften beschäftigt. Es wird unterschieden zwischen französischen Ansätzen (z.B. von Fernand Braudel) und britischen (z.B. von Eric Hobsbawm), wobei in Deutschland Hans-Ulrich Wehler als Hauptvertreter gilt. Der Artikel erläutert auch die historische Entwicklung Deutschlands vom Feudalismus bis zur Deutschen Teilung 1990.",
+      "topics": [
+        "Gesellschaftsgeschichte",
+        "Historische Sozialwissenschaft",
+        "Fernand Braudel",
+        "Eric Hobsbawm",
+        "Hans-Ulrich Wehler"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "banner"
+      ]
+    },
+    "_duration_s": 14.48
+  },
+  {
+    "url": "http://www.facebook.com",
+    "result": {
+      "title": "",
+      "language": "en",
+      "summary": "The screenshot is entirely blank, showing only a white background with no visible content, text, or interface elements.",
+      "topics": [],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 14.75
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "result": {
+      "title": "Wirtschaftsgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "This is the German Wikipedia article on 'Wirtschaftsgeschichte' (Economic History). It defines the field as a bridging discipline between economics and history, discussing its methodologies and historical development, particularly in Germany. The article outlines how it has evolved from a focus on quantitative methods and statistical-mathematical approaches since the 1950s to include institutional economics since the 1990s.",
+      "topics": [
+        "Wirtschaftsgeschichte",
+        "Wirtschaftswissenschaft",
+        "Geschichtswissenschaft",
+        "Institutionenökonomik",
+        "Deutsche Wirtschaftsgeschichte"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "banner"
+      ]
+    },
+    "_duration_s": 15.59
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "result": {
+      "title": "Politische Theorie - Wikipedia",
+      "language": "de",
+      "summary": "This is the German Wikipedia article on 'Political Theory'. It defines political theory as a central subject within political science, alongside political science and international relations, and explains its division into classical and modern theories. The page includes a diagram illustrating the relationship between different branches of political theory.",
+      "topics": [
+        "Politische Theorie",
+        "Politikwissenschaft",
+        "Politische Philosophie",
+        "Klassische Politische Theorie",
+        "Moderne Politische Theorie"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "banner"
+      ]
+    },
+    "_duration_s": 18.03
+  },
+  {
+    "url": "http://www.youtube.com",
+    "result": {
+      "title": "",
+      "language": "en",
+      "summary": "The screenshot displays a placeholder or wireframe of a webpage layout, showing empty rectangular areas where content, images, or ads would typically appear. There are no visible text, logos, or interactive elements, suggesting it's either a draft, a loading screen, or a blocked page.",
+      "topics": [
+        "placeholder",
+        "wireframe",
+        "webpage",
+        "layout",
+        "empty"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 20.14
+  },
+  {
+    "url": "http://www.baidu.com",
+    "result": {
+      "title": "百度",
+      "language": "zh",
+      "summary": "这是百度搜索引擎的首页，显示了搜索框、语言切换选项和一些热门搜索建议。页面设计简洁，以白色为主色调，突出百度的标志和搜索功能。",
+      "topics": [
+        "搜索引擎",
+        "百度",
+        "中文搜索",
+        "网页搜索",
+        "在线服务"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 20.21
+  },
+  {
+    "url": "http://www.yahoo.com",
+    "result": {
+      "title": "Yahoo! Datenschutz und Cookie-Benachrichtigung",
+      "language": "de",
+      "summary": "Die Seite zeigt eine Datenschutzbenachrichtigung von Yahoo! in deutscher Sprache. Sie informiert über die Verwendung von Cookies zur Bereitstellung von Diensten, zur Authentifizierung und zur Verhinderung von Missbrauch. Der Nutzer kann seine Datenschutzeinstellungen anpassen oder alle Cookies ablehnen.",
+      "topics": [
+        "Datenschutz",
+        "Cookies",
+        "Yahoo",
+        "Datenschutzeinstellungen",
+        "Datenschutzerklärung"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "banner"
+      ]
+    },
+    "_duration_s": 21.64
+  }
+]

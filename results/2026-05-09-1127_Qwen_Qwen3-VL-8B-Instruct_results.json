@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "result": {
+      "title": "Politische Theorie - Wikipedia",
+      "language": "de",
+      "summary": "Die Seite beschreibt die politische Theorie als einen zentralen Lehrfachbereich der Politikwissenschaft und stellt ihre Untergliederung in klassische und moderne Theorien vor. Es wird erklärt, dass die politische Theorie zu den Sozialwissenschaften gehört und in zwei Hauptbereiche unterteilt ist.",
+      "topics": [
+        "Politische Theorie",
+        "Sozialwissenschaften",
+        "Politikwissenschaft",
+        "Klassische Theorie",
+        "Moderne Theorie"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "banner"
+      ]
+    },
+    "_duration_s": 9.01
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "result": {
+      "title": "Wirtschaftsgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "This is the German Wikipedia article on 'Wirtschaftsgeschichte' (Economic History). It defines the field as a bridge discipline between economics and history, explaining its methods and how it has evolved, particularly through the influence of quantitative methods and new institutional economics. The article outlines its scope, including topics like business history, economic institutions, and global economic development.",
+      "topics": [
+        "Wirtschaftsgeschichte",
+        "Wirtschafts- und Sozialwissenschaften",
+        "Quantitative Methoden",
+        "Neue Institutionenökonomik",
+        "Geschichte der Wirtschaft"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "banner"
+      ]
+    },
+    "_duration_s": 9.43
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "result": {
+      "title": "Gesellschaftsgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "Die Seite beschreibt die Gesellschaftsgeschichte als ein historisches Forschungsprogramm, das sich mit der Entwicklung von Gesellschaften beschäftigt. Sie erläutert die historische Entwicklung dieses Fachgebiets, wichtige Vertreter wie Hans-Ulrich Wehler und Max Weber sowie die methodischen Ansätze und die Integration von Wirtschaft, Politik und Kultur in die Gesellschaftsgeschichte.",
+      "topics": [
+        "Gesellschaftsgeschichte",
+        "Historische Forschung",
+        "Hans-Ulrich Wehler",
+        "Max Weber",
+        "Sozialwissenschaft"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 9.85
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "result": {
+      "title": "Sozialgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "Die Seite beschreibt die Sozialgeschichte als Teilgebiet der Geschichtswissenschaft, das sich mit der Entwicklung von Gesellschaften in der Vergangenheit beschäftigt. Sie erklärt, dass Sozialgeschichte oft als Teil der Sozial- und Wirtschaftsgeschichte verstanden wird und im 20. Jahrhundert verschiedene Richtungen entwickelte. Der Artikel behandelt auch die historische Entwicklung der Sozialgeschichte in Deutschland.",
+      "topics": [
+        "Sozialgeschichte",
+        "Geschichtswissenschaft",
+        "Soziologie",
+        "Deutschland",
+        "Wirtschaftsgeschichte"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "banner"
+      ]
+    },
+    "_duration_s": 9.85
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "result": {
+      "title": "Kulturgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "Die Seite beschreibt die Kulturgeschichte als die Geschichte des geistig-kulturellen Lebens, der Zivilisation und deren Entwicklung. Sie erläutert den Begriff, den Gegenstandsbereich und die Unterscheidung von politischer Geschichte, wobei sie sich auf die Aufklärung und die deutsche Romantik bezieht.",
+      "topics": [
+        "Kulturgeschichte",
+        "Geschichte",
+        "Aufklärung",
+        "Romantik",
+        "Geisteswissenschaft"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "banner"
+      ]
+    },
+    "_duration_s": 16.49
+  }
+]

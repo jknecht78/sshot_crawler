@@ -1,0 +1,187 @@
+[
+  {
+    "url": "http://www.facebook.com",
+    "result": {
+      "title": "Page Title",
+      "language": "en",
+      "summary": "This is a blank page with no visible content.",
+      "topics": [
+        "blank",
+        "page",
+        "content"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 3.63
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "result": {
+      "title": "Wirtschaftsgeschichte",
+      "language": "de",
+      "summary": "This Wikipedia page discusses the field of economic history, which bridges economics and history. It covers various aspects such as methods, disciplines, and research directions in economic history.",
+      "topics": [
+        "Wirtschaftsgeschichte",
+        "Economic History",
+        "History",
+        "Economics"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.3
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "result": {
+      "title": "Kulturgeschichte",
+      "language": "de",
+      "summary": "This is a German Wikipedia page about Kulturgeschichte, which refers to the history of the spiritual-cultural life, civilization, and their research and representation.",
+      "topics": [
+        "Kulturgeschichte",
+        "Geschichte",
+        "Geistig-kulturelles Leben",
+        "Zivilisation"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.39
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "result": {
+      "title": "Politische Theorie",
+      "language": "de",
+      "summary": "This is a German Wikipedia page about Political Theory, which is a subfield of political science. It discusses the different branches and theories within Political Theory, including Classical Political Theory and Modern Political Theory.",
+      "topics": [
+        "Political Theory",
+        "Politics",
+        "Philosophy",
+        "Ideology",
+        "Political Science"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.4
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "result": {
+      "title": "Sozialgeschichte",
+      "language": "de",
+      "summary": "This is a German Wikipedia page about Sozialgeschichte, which explores and describes the development of societies in the past. It discusses how the concept of Sozialgeschichte emerged as a sub-discipline within history, focusing on the impact of groups, classes, and social structures.",
+      "topics": [
+        "Sozialgeschichte",
+        "Gesellschaftsentwicklung",
+        "Politische Geschichte"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.8
+  },
+  {
+    "url": "http://www.amazon.com",
+    "result": {
+      "title": "Page Title",
+      "language": "en",
+      "summary": "This is a blank page with no visible content.",
+      "topics": [
+        "blank",
+        "page",
+        "content"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 5.68
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "result": {
+      "title": "Gesellschaftsgeschichte",
+      "language": "de",
+      "summary": "This is a Wikipedia page about 'Gesellschaftsgeschichte', which translates to 'History of Society'. It discusses the program of historical sociology and the history of societies, covering various aspects such as economic, social, political, and cultural history.",
+      "topics": [
+        "History",
+        "Sociology",
+        "German History",
+        "Social Sciences"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 5.96
+  },
+  {
+    "url": "http://www.youtube.com",
+    "result": {
+      "title": "Placeholder Page",
+      "language": "en",
+      "summary": "This is a screenshot of a placeholder page with six gray boxes arranged in two rows. Each box appears to have some text underneath it, but the content is not visible.",
+      "topics": [
+        "placeholder",
+        "page",
+        "boxes"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 6.18
+  },
+  {
+    "url": "http://www.yahoo.com",
+    "result": {
+      "title": "Yahoo!",
+      "language": "de",
+      "summary": "This is a screenshot of the Yahoo! website in German, displaying a privacy policy notice. It informs users about how their data is used and managed by Yahoo! and its partners.",
+      "topics": [
+        "Yahoo",
+        "Privacy Policy",
+        "Cookies"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 6.25
+  },
+  {
+    "url": "http://www.baidu.com",
+    "result": {
+      "title": "Baidu",
+      "language": "zh",
+      "summary": "This is the homepage of Baidu, a popular Chinese search engine. It features a search bar at the top and a list of trending topics below it.",
+      "topics": [
+        "Baidu",
+        "search engine",
+        "trending topics"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 9.89
+  }
+]

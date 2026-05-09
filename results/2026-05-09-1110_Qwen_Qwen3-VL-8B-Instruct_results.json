@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "error": "Connection error.",
+    "_duration_s": 12.23
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "error": "Connection error.",
+    "_duration_s": 12.32
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "error": "Connection error.",
+    "_duration_s": 12.39
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "error": "Connection error.",
+    "_duration_s": 12.4
+  },
+  {
+    "url": "http://www.youtube.com",
+    "error": "Connection error.",
+    "_duration_s": 22.13
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "error": "Connection error.",
+    "_duration_s": 22.19
+  },
+  {
+    "url": "http://www.amazon.com",
+    "error": "Connection error.",
+    "_duration_s": 22.21
+  },
+  {
+    "url": "http://www.facebook.com",
+    "error": "Connection error.",
+    "_duration_s": 22.24
+  },
+  {
+    "url": "http://www.yahoo.com",
+    "error": "Connection error.",
+    "_duration_s": 32.0
+  },
+  {
+    "url": "http://www.baidu.com",
+    "error": "Connection error.",
+    "_duration_s": 32.18
+  }
+]

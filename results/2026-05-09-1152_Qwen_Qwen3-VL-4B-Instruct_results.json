@@ -1,0 +1,179 @@
+[
+  {
+    "url": "http://www.facebook.com",
+    "result": {
+      "title": "",
+      "language": "en",
+      "summary": "",
+      "topics": [],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.74
+  },
+  {
+    "url": "http://www.amazon.com",
+    "result": {
+      "title": "",
+      "language": "en",
+      "summary": "",
+      "topics": [],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.74
+  },
+  {
+    "url": "http://www.youtube.com",
+    "result": {
+      "title": "Untitled",
+      "language": "en",
+      "summary": "The image displays a generic webpage layout with a search bar at the top and six placeholder blocks arranged in two rows. These blocks likely represent content sections or articles, but no actual text or imagery is visible. The design suggests a template or a page that has not yet loaded or been customized.",
+      "topics": [
+        "webpage template",
+        "placeholder content",
+        "UI design"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 11.49
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "result": {
+      "title": "Wirtschaftsgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "Die Seite erklärt, dass Wirtschaftsgeschichte die historische Entwicklung der Wirtschafts- und Betriebswissenschaften sowie der Wirtschaftsbeziehungen untersucht. Sie behandelt Themen wie die Entwicklung von Volkswirtschaften, Institutionen und Methoden, und beschreibt die methodischen Veränderungen in der Wirtschaftsgeschichte seit den 1950er Jahren, einschließlich der Einflüsse von Quantifizierung und mathematischen Modellen.",
+      "topics": [
+        "Wirtschaftsgeschichte",
+        "Volkswirtschaftslehre",
+        "Methoden der Wirtschaftsgeschichte"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 12.24
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "result": {
+      "title": "Sozialgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "Die Wikipedia-Seite zu 'Sozialgeschichte' erklärt, dass es sich um eine historische Disziplin handelt, die die Entwicklung von Gesellschaften in der Vergangenheit untersucht. Die Seite beschreibt, dass Sozialgeschichte als Teil der Geschichtswissenschaft die Struktur und Entwicklung von Gruppen, Ständen und Klassen analysiert. Es wird auch erwähnt, dass die Sozialgeschichte in Deutschland seit den 1920er Jahren als eigenständige Disziplin entstanden ist.",
+      "topics": [
+        "Sozialgeschichte",
+        "Geschichtswissenschaft",
+        "Gesellschaftsentwicklung"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 12.32
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "result": {
+      "title": "Gesellschaftsgeschichte - Wikipedia",
+      "language": "de",
+      "summary": "Die Seite erklärt das Programm der Wikipedia zur Gesellschaftsgeschichte, das die Entwicklung von Gesellschaften in Deutschland seit 1700 beschreibt. Es wird auf die Forschungsprogramme von Instituten wie der Universität Hamburg und der Universität Bremen eingegangen, sowie auf die Analyse von politischen und sozialen Strukturen. Die Seite enthält auch historische Beispiele wie die Entwicklung des deutschen Reiches und die Rolle von Max Webers Projekt.",
+      "topics": [
+        "Gesellschaftsgeschichte",
+        "Wikipedia",
+        "Deutschland",
+        "Historische Forschung",
+        "Sozialstruktur"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 12.45
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "result": {
+      "title": "Politische Theorie - Wikipedia",
+      "language": "de",
+      "summary": "Die Seite erklärt die Politische Theorie als wissenschaftliche Disziplin, die sich mit den Grundlagen und Prinzipien politischer Systeme beschäftigt. Sie teilt sich in klassische und moderne Theorien auf und zeigt eine schematische Darstellung der verschiedenen theoretischen Ansätze. Der Artikel ist Teil der deutschen Wikipedia und bietet eine umfassende Einführung in das Thema.",
+      "topics": [
+        "Politische Theorie",
+        "Wikipedia",
+        "Politische Philosophie"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 13.27
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "result": {
+      "title": "Kulturgechichte - Wikipedia",
+      "language": "de",
+      "summary": "Die Seite erklärt die Kulturgechichte als die Geschichte des geist-kulturellen Lebens, der Zivilisation und der Erforschung. Sie beschreibt, dass die Kulturgechichte auf einem weiten Quellenbogen beruht und sich nicht direkt mit politischen Geschehnissen beschäftigt, sondern auf der politischen Geschichte und der politischen Geschichtsschreibung. Der Artikel führt die Entwicklung von Kulturgechichte vom 18. Jahrhundert bis heute, mit wichtigen Figuren wie Voltaire, Johann Gottfried Herder, Oswald Spengler und Alfred Weber.",
+      "topics": [
+        "Kulturgechichte",
+        "Geistesgeschichte",
+        "Kulturphilosophie",
+        "Voltaire",
+        "Johann Gottfried Herder"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 13.89
+  },
+  {
+    "url": "http://www.yahoo.com",
+    "result": {
+      "title": "Ihre Privatsphäre ist uns wichtig - Yahoo!",
+      "language": "de",
+      "summary": "The page displays a privacy notice from Yahoo, explaining that cookies are used to authenticate users, enhance security, and prevent spam. It outlines data collection practices and offers users the option to accept or decline cookies, with a clear 'Zum Ende' button to proceed.",
+      "topics": [
+        "privacy",
+        "cookies",
+        "data collection"
+      ],
+      "category": "docs",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 18.3
+  },
+  {
+    "url": "http://www.baidu.com",
+    "result": {
+      "title": "百度搜索",
+      "language": "zh",
+      "summary": "This is the Baidu search engine homepage, featuring a prominent search bar with a blue-purple gradient. Below the search bar, there is a list of search suggestions or recent queries in Chinese, numbered from 1 to 9. The page has a clean, minimalist design with the Baidu logo centered at the top.",
+      "topics": [
+        "search engine",
+        "Baidu",
+        "Chinese web",
+        "search suggestions"
+      ],
+      "category": "news",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 19.76
+  }
+]

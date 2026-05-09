@@ -1,0 +1,65 @@
+[
+  {
+    "url": "http://www.amazon.com",
+    "result": {
+      "title": "",
+      "language": "en",
+      "summary": "The page is entirely white with no visible content, text, or interactive elements. It appears to be a blank screen, possibly indicating a loading error, a misconfigured page, or a deliberate placeholder.",
+      "topics": [
+        "blank page",
+        "error",
+        "placeholder"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.27
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "error": "Connection error.",
+    "_duration_s": 14.25
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "error": "Connection error.",
+    "_duration_s": 14.25
+  },
+  {
+    "url": "http://www.facebook.com",
+    "error": "Connection error.",
+    "_duration_s": 14.32
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "error": "Connection error.",
+    "_duration_s": 14.48
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "error": "Connection error.",
+    "_duration_s": 14.49
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "error": "Connection error.",
+    "_duration_s": 14.6
+  },
+  {
+    "url": "http://www.youtube.com",
+    "error": "Connection error.",
+    "_duration_s": 24.23
+  },
+  {
+    "url": "http://www.baidu.com",
+    "error": "Connection error.",
+    "_duration_s": 24.37
+  },
+  {
+    "url": "http://www.yahoo.com",
+    "error": "Connection error.",
+    "_duration_s": 24.42
+  }
+]

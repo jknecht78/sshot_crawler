@@ -1,0 +1,18 @@
+{
+  "model_id": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "model_config": "qwen2.5-vl-7b",
+  "timestamp": "2026-05-09-11:51",
+  "urls_processed": 10,
+  "successful": 10,
+  "errors": 0,
+  "success_pct": 100,
+  "total_s": 9.9,
+  "throughput_s": 0.99,
+  "avg_url_s": 5.5,
+  "min_url_s": 3.63,
+  "p50_url_s": 5.24,
+  "p95_url_s": 8.25,
+  "max_url_s": 9.89,
+  "results_file": "2026-05-09-11:51_Qwen_Qwen2.5-VL-7B-Instruct_results.json",
+  "excel_file": "2026-05-09-11:51_Qwen_Qwen2.5-VL-7B-Instruct_results.xlsx"
+}

@@ -1,0 +1,18 @@
+{
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "model_config": "qwen3-vl-8b",
+  "timestamp": "2026-05-09-11:10",
+  "urls_processed": 10,
+  "successful": 0,
+  "errors": 10,
+  "success_pct": 0,
+  "total_s": 32.2,
+  "throughput_s": 3.22,
+  "avg_url_s": 20.2,
+  "min_url_s": 12.23,
+  "p50_url_s": 22.16,
+  "p95_url_s": 32.1,
+  "max_url_s": 32.18,
+  "results_file": "2026-05-09-11:10_Qwen_Qwen3-VL-8B-Instruct_results.json",
+  "excel_file": "2026-05-09-11:10_Qwen_Qwen3-VL-8B-Instruct_results.xlsx"
+}

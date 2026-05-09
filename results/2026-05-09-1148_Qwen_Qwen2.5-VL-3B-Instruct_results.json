@@ -1,0 +1,202 @@
+[
+  {
+    "url": "http://www.youtube.com",
+    "result": {
+      "title": "Blank Webpage",
+      "language": "en",
+      "summary": "The image shows an empty web page with placeholder text and no visible content. The layout is typical of a blank template, ready for customization.",
+      "topics": [
+        "web design",
+        "template",
+        "blank page"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 3.51
+  },
+  {
+    "url": "http://www.facebook.com",
+    "result": {
+      "title": "Home",
+      "language": "en",
+      "summary": "The homepage of a website is displayed, likely an online platform for various services or information. The layout includes navigation links and possibly a search bar at the top, with content below.",
+      "topics": [
+        "home page",
+        "website layout",
+        "navigation"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 3.6
+  },
+  {
+    "url": "http://www.amazon.com",
+    "result": {
+      "title": "Home",
+      "language": "en",
+      "summary": "The homepage of a website that appears to be a general information platform, possibly for news or articles, as it is designed to display various categories and sections.",
+      "topics": [
+        "home",
+        "website",
+        "information",
+        "categories",
+        "sections"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "sponsored-content"
+      ]
+    },
+    "_duration_s": 3.62
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "result": {
+      "title": "Kulturgeschichte",
+      "language": "de",
+      "summary": "Die Seite bietet Informationen über die Definition und den Gegenstandsbereich der Kulturgeschichte, einschließlich ihrer historischen Entwicklung und der Rolle in der politischen Geschichtsschreibung.",
+      "topics": [
+        "Kulturgeschichte",
+        "Geschichte",
+        "Geistig-kulturelles Leben",
+        "Politische Geschichtsschreibung"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "sponsored-content"
+      ]
+    },
+    "_duration_s": 3.9
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "result": {
+      "title": "Politische Theorie",
+      "language": "de",
+      "summary": "Die Seite bietet eine Übersicht über die Politische Theorie, einschließlich ihrer verschiedenen Teilgebiete wie Klassische Politische Theorie, Positive Politische Theorie und Systemtheorie. Es wird auch auf die Gliederung des Fachbereichs der Politischen Theorie hingewiesen.",
+      "topics": [
+        "Politische Theorie",
+        "Klassische Politische Theorie",
+        "Positive Politische Theorie",
+        "Systemtheorie"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.03
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "result": {
+      "title": "Wirtschaftsgeschichte",
+      "language": "de",
+      "summary": "Die Seite bietet eine Übersicht über die Wirtschaftsgeschichte, einschließlich ihrer Methoden und Themenfelder. Sie beschreibt die Rolle der Wirtschaftsgeschichte in Bezug auf Wirtschaftswissenschaften und Geschichtswissenschaften sowie ihre historische Bedeutung.",
+      "topics": [
+        "Wirtschaftsgeschichte",
+        "Wirtschaftswissenschaften",
+        "Geschichtswissenschaften",
+        "Methoden",
+        "Themenfelder"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "sponsored-content"
+      ]
+    },
+    "_duration_s": 4.1
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "result": {
+      "title": "Sozialgeschichte",
+      "language": "de",
+      "summary": "Die Seite beschreibt die Definition und Geschichte der Sozialgeschichte, einer Disziplin der Geschichtswissenschaft, die sich mit der Entwicklung von Gesellschaften in der Vergangenheit befasst. Es wird auf verschiedene Richtungen innerhalb der Sozialgeschichte eingegangen, einschließlich Strukturgeographie und sozialgeschichtlicher Interpretation.",
+      "topics": [
+        "Sozialgeschichte",
+        "Gesellschaftslehre",
+        "Historische Gesellschaft",
+        "Deutschland",
+        "Nationalsozialismus"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.19
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "result": {
+      "title": "Gesellschaftsgeschichte",
+      "language": "de",
+      "summary": "Das Bild zeigt eine Wikipedia-Seite mit dem Titel \"Gesellschaftsgeschichte\". Die Seite enthält eine kurze Beschreibung des Begriffs \"Gesellschaftsgeschichte\", die als Programm der historischen Sozialwissenschaft betrachtet wird. Es werden auch Beispiele für Arbeiten aus verschiedenen Ländern und Schulen der Gesellschaftsgeschichte erwähnt.",
+      "topics": [
+        "Gesellschaftsgeschichte",
+        "historische Sozialwissenschaft",
+        "Französische Gesellschaftsgeschichte",
+        "Deutsche Gesellschaftsgeschichte",
+        "Max Weber"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.32
+  },
+  {
+    "url": "http://www.yahoo.com",
+    "result": {
+      "title": "Yahoo Privacy Policy",
+      "language": "de",
+      "summary": "This page is the privacy policy for Yahoo, explaining how they use cookies and other data collection methods on their websites and apps, and providing options for users to manage their privacy settings.",
+      "topics": [
+        "privacy",
+        "cookies",
+        "data protection",
+        "user consent",
+        "privacy policy"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.55
+  },
+  {
+    "url": "http://www.baidu.com",
+    "result": {
+      "title": "百度",
+      "language": "zh",
+      "summary": "这是一个中文搜索引擎网站的截图，显示了搜索框和一些热门搜索结果。用户可以在这里输入关键词进行搜索。",
+      "topics": [
+        "搜索引擎",
+        "中文互联网",
+        "百度"
+      ],
+      "category": "tech",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "sponsored-content"
+      ]
+    },
+    "_duration_s": 9.89
+  }
+]

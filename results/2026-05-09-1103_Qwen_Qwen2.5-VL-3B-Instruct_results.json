@@ -1,0 +1,197 @@
+[
+  {
+    "url": "http://www.youtube.com",
+    "result": {
+      "title": "Blank Webpage",
+      "language": "en",
+      "summary": "The image shows an empty web page with placeholder text and no visible content. The layout is typical of a blank template, ready for customization.",
+      "topics": [
+        "web design",
+        "template",
+        "blank page"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 3.58
+  },
+  {
+    "url": "http://www.amazon.com",
+    "result": {
+      "title": "Amazon",
+      "language": "en",
+      "summary": "The screenshot shows an Amazon shopping cart confirmation page with a button to continue shopping and links to Conditions of Use and Privacy Policy at the bottom.",
+      "topics": [
+        "Amazon",
+        "shopping cart",
+        "continue shopping",
+        "conditions of use",
+        "privacy policy"
+      ],
+      "category": "e-commerce",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 3.74
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Sozialgeschichte",
+    "result": {
+      "title": "Wikipedia",
+      "language": "de",
+      "summary": "The screenshot shows the Wikipedia page for \"Sozialgeschichte\" (Social History) in German. It provides information about the subject, including its definition and development over time, as well as links to related articles and sections.",
+      "topics": [
+        "social history",
+        "German Wikipedia",
+        "encyclopedia"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 3.85
+  },
+  {
+    "url": "http://www.facebook.com",
+    "result": {
+      "title": "Facebook Cookie Consent Dialog",
+      "language": "de",
+      "summary": "The image shows a cookie consent dialog from Facebook in German, asking users to allow cookies for better Meta-Product delivery and improvements. The dialog explains that essential cookies are necessary for functionality and optional cookies for additional features like ads and personalized content.",
+      "topics": [
+        "Facebook",
+        "Cookie Consent",
+        "Meta-Products",
+        "Privacy",
+        "User Experience"
+      ],
+      "category": "other",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": []
+    },
+    "_duration_s": 3.93
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Kulturgeschichte",
+    "result": {
+      "title": "Kulturgeschichte",
+      "language": "de",
+      "summary": "Die Seite beschreibt die Definition und den Gegenstandsbezirk der Kulturgeschichte, einschließlich ihrer historischen Entwicklung und ihrer Beziehungen zu politischer und Staatsgeschichte.",
+      "topics": [
+        "Kulturgeschichte",
+        "Geschichtsschreibung",
+        "Deutsche Romantik",
+        "Kulturphilosophie",
+        "Geistesgeschichte"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.02
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Gesellschaftsgeschichte",
+    "result": {
+      "title": "Wikipedia",
+      "language": "de",
+      "summary": "The Wikipedia page in German is open to the topic of \"Gesellschaftsgeschichte\" (Sociological history). It provides information about the program and development of sociological history, including its historical context and notable figures like Fernand Braudel and Hans-Ulrich Wehler.",
+      "topics": [
+        "Sociological history",
+        "Fernand Braudel",
+        "Hans-Ulrich Wehler"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "sponsored-content"
+      ]
+    },
+    "_duration_s": 4.11
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wirtschaftsgeschichte",
+    "result": {
+      "title": "Wirtschaftsgeschichte",
+      "language": "de",
+      "summary": "Die Seite bietet eine Übersicht über die Wirtschaftsgeschichte und enthält Informationen zu Methoden, Teilgebieten und Forschungsfeldern in diesem Bereich. Es wird auch auf die Entwicklung der Wirtschaftsgeschichte im deutschsprachigen Raum hingewiesen.",
+      "topics": [
+        "Wirtschaftsgeschichte",
+        "Methoden",
+        "Teilgebiete",
+        "Forschungsfelder",
+        "Deutschland"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.13
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Politische_Theorie",
+    "result": {
+      "title": "Politische Theorie",
+      "language": "de",
+      "summary": "Die Seite bietet eine Übersicht über die Politische Theorie, einschließlich ihrer verschiedenen Teilgebiete wie Klassische Politische Theorie, Positive Politische Theorie und Systemtheorie. Es wird auch auf die Gliederung des Fachbereichs der Politischen Theorie hingewiesen.",
+      "topics": [
+        "Politische Theorie",
+        "Klassische Politische Theorie",
+        "Positive Politische Theorie",
+        "Systemtheorie"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.17
+  },
+  {
+    "url": "http://www.yahoo.com",
+    "result": {
+      "title": "Yahoo Privacy Policy",
+      "language": "de",
+      "summary": "This page provides information about Yahoo's privacy policy, including how it uses cookies and other data collection methods, and how users can manage their privacy settings.",
+      "topics": [
+        "privacy",
+        "cookies",
+        "data protection",
+        "Yahoo",
+        "privacy policy"
+      ],
+      "category": "encyclopedia",
+      "blocked": false,
+      "has_ads": false,
+      "ad_types": []
+    },
+    "_duration_s": 4.61
+  },
+  {
+    "url": "http://www.baidu.com",
+    "result": {
+      "title": "百度",
+      "language": "zh",
+      "summary": "这是一个中文搜索引擎的首页，显示了搜索框和一些热门搜索结果。页面顶部有百度的标志，底部有一些搜索排行榜。",
+      "topics": [
+        "搜索引擎",
+        "百度",
+        "中国互联网"
+      ],
+      "category": "tech",
+      "blocked": false,
+      "has_ads": true,
+      "ad_types": [
+        "sponsored-content"
+      ]
+    },
+    "_duration_s": 7.68
+  }
+]
