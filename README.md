@@ -26,7 +26,7 @@ MODEL_ID=microsoft/phi-3-vision-128k-instruct
 MAX_PAGES=5
 IMAGE_SIZE=512,512
 PROMPT=What do you see?
-HUGGINGFACE_TOKEN=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
+HUGGINGFACE_TOKEN={your-token}
 ```
 
 Edit `.env` to customize behavior without modifying code.
